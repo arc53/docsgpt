@@ -162,7 +162,7 @@ You can use the script below, or download it manually from [here](https://d3dg10
 
 ```commandline
 wget https://d3dg1063dc54p9.cloudfront.net/models/embeddings/mpnet-base-v2.zip
-unzip mpnet-base-v2.zip -d model
+unzip mpnet-base-v2.zip -d models
 rm mpnet-base-v2.zip
 ```
 
